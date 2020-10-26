@@ -1,0 +1,4 @@
+#Fri Aug 28 18:38:55 EEST 2020
+base.0=/home/khalil/Documents/learning/react_native/AwesomeProject/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
